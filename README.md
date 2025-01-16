@@ -1,7 +1,7 @@
 # Telegram Movie Bot 🎥
 
 ## Overview
-This Telegram bot helps users search for movies based on various filters such as genre, year, rating, actor, and keywords. Additionally, it can provide statistics on the most popular search queries.
+This Telegram bot helps users search for movies based on various filters such as genre, year, rating, actor, and keywords. Additionally, it can provide statistics on the most popular search queries  using SQL databases and analyzing user search logs.
 
 ## Features
 - Search movies by:
@@ -30,5 +30,5 @@ This Telegram bot helps users search for movies based on various filters such as
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/telegram-movie-bot.git
+   git clone https://github.com/codedwarg/telegram-movie-bot.git
    cd telegram-movie-bot
