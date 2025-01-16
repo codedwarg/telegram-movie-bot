@@ -57,6 +57,14 @@ Notes
     The bot uses the MySQL database for storing movie data and logging queries. Ensure the database is properly set up before running the bot.
     Replace the placeholder in bot.py with your actual Telegram Bot Token.
 
+## Environment Variables
+To run the bot, you need to define the following environment variables:
+- `DB_HOST`: Database host address (e.g., `127.0.0.1`).
+- `DB_USER`: Database username.
+- `DB_PASSWORD`: Database password.
+- `TELEGRAM_BOT_TOKEN`: Your Telegram Bot Token.
+
+
 License
 
 This project is licensed under the MIT License.
